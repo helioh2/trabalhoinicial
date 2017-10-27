@@ -1,2 +1,4 @@
 X = 10
-Y = 50
+
+vaca_doida = 292
+chupacabra = 292
